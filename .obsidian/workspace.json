@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "a6d4f6e15b4a6722",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a70b582975415da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1734fd4d1b12c010",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/work/激活函数.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "激活函数"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1eb1479bc3f4d701",
+    "type": "split",
+    "children": [
+      {
+        "id": "f506a91bfa244e82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3009645269969ca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "825fa992172d0b94",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "2126ad2a6132ca7d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c1bf9ec65e51e603",
+    "type": "split",
+    "children": [
+      {
+        "id": "2580ffb2222357ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61e3733df589ad2d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Resources/work/激活函数.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "激活函数 的反向链接列表"
+            }
+          },
+          {
+            "id": "dbf5124bc4249511",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Resources/work/激活函数.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "激活函数 的出链列表"
+            }
+          },
+          {
+            "id": "e071300f02f6d1f6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "e9a43fd118b4ed72",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Resources/work/激活函数.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "激活函数 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
+      "obsidian-git:Open Git source control": false,
+      "yet-another-obsidian-synchronizer:YAOS": false
+    }
+  },
+  "active": "1734fd4d1b12c010",
+  "lastOpenFiles": [
+    "README.md",
+    "my-obsidian/README.md",
+    "my-obsidian",
+    "Resources/work/激活函数.md",
+    "欢迎.md",
+    "Projects",
+    "Areas/雅博",
+    "Areas",
+    "Archives",
+    "Resources/work",
+    "Resources"
+  ]
+}
