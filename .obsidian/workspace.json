@@ -11,14 +11,10 @@
             "id": "1734fd4d1b12c010",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arches/雅博/python编程/2025.9.17.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025.9.17"
+              "title": "New tab"
             }
           }
         ]
@@ -173,22 +169,26 @@
   },
   "active": "1734fd4d1b12c010",
   "lastOpenFiles": [
-    "Arches/雅博/python编程/2025.9.10.md",
     "Arches/雅博/python编程/2025.9.17.md",
-    "Resources/work/激活函数.md",
-    "Arches/雅博/Untitled.md",
+    "Arches/雅博/python编程/2025.9.10.md",
     "Arches/雅博/python编程",
     "Arches/雅博",
     "Arches",
+    "Archives/雅博/python编程/2025.9.17.md",
+    "Resources/work/Batch Layer RMSnorm区别.md",
+    "Areas/量化/CHINESE-CLIP.md",
+    "Areas/量化",
+    "Areas",
+    "Archives/雅博/python编程/2025.9.10.md",
+    "Archives/雅博/python编程",
+    "Archives/雅博",
+    "Archives",
+    "Resources/work/激活函数.md",
+    "Arches/雅博/Untitled.md",
     "新建文件夹",
     "README.md",
     "my-obsidian/README.md",
     "my-obsidian",
-    "欢迎.md",
-    "Projects",
-    "Areas/雅博",
-    "Areas",
-    "Archives",
-    "Resources/work"
+    "欢迎.md"
   ]
 }
