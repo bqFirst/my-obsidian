@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/量化/CHINESE-CLIP.md",
+                "file": "Areas/量化/对称量化的缺点，以及改如何在对称量化的基础上优化.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CHINESE-CLIP"
+              "title": "对称量化的缺点，以及改如何在对称量化的基础上优化"
             }
           }
         ]
@@ -173,11 +173,12 @@
   },
   "active": "1734fd4d1b12c010",
   "lastOpenFiles": [
-    "Resources/work/激活函数.md",
     "Resources/work/Batch Layer RMSnorm区别.md",
+    "Areas/量化/对称量化的缺点，以及改如何在对称量化的基础上优化.md",
+    "Resources/work/激活函数.md",
+    "Areas/量化/CHINESE-CLIP.md",
     "Areas/量化/对称量化对topk这类任务表现很差.md",
     "Archives/雅博/python编程/2025.9.17.md",
-    "Areas/量化/CHINESE-CLIP.md",
     "Areas/量化",
     "未命名",
     "Archives/雅博/python编程/2025.9.10.md",
