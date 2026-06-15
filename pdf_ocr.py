@@ -1,8 +1,8 @@
 import os
-files = os.listdir('pdf')
+files = os.listdir('todo')
 i = 0
 for file in files:
-    file = os.path.join('/work/github/my-obsidian','pdf', file)
+    file = os.path.join('/work/github/my-obsidian','todo', file)
     print(f' {file}')
     #file_new = 'file_{i}'
     #cli = f'mv  {file} {file_new}'
